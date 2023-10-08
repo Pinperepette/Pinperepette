@@ -1,12 +1,12 @@
 # Hello, I'm @Pinperepette! 👋
 
-I am passionate about technology and cybersecurity. Currently, I am delving deep into the world of neural networks 🌱. I am actively seeking collaboration opportunities on the Panna project and am always open to new challenges and innovative ideas.
+I am passionate about technology and cybersecurity. Currently, I am exploring the world of neural networks 🌱. I am interested in collaborating on technological projects and am always open to new challenges and innovative ideas.
 
-## What I do:
+## What I work on:
 
-- 🌐 Develop technological projects
+- 🌐 Developing technological projects
 - 🔐 Cybersecurity expert
-- 🧠 Neural networks enthusiast
+- 🐾 Proud owner of Panna, my dog!
 
 ## How to reach me:
 
