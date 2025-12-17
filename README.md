@@ -2,7 +2,7 @@
 
 🏴‍☠️ { 'name': 'Andrea Amani' }, #Security #engineer , P(Bug | Fix) ≠ P(Fix | Bug).  Debugging → ∞ (converge? maybe). Classe ’76, Σ(errors²) ≠ 0 ;
 
-Security Engineer ∩ ML Enthusiast | Classe '76
+Security Engineer ∩ ML Enthusiast |
 Where cybersecurity meets artificial intelligence:
 - if(threat_detected) { model.predict(response) }
 - Neural networks for anomaly detection
