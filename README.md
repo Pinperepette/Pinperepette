@@ -1,6 +1,14 @@
 # Hello, I'm @Pinperepette! 👋
 
-I am passionate about technology and cybersecurity. Currently, I am exploring the world of neural networks 🌱. I am interested in collaborating on technological projects and am always open to new challenges and innovative ideas.
+Security Engineer ∩ ML Enthusiast | Classe '76
+Where cybersecurity meets artificial intelligence:
+- if(threat_detected) { model.predict(response) }
+- Neural networks for anomaly detection
+- Adversarial ML & AI security research
+- P(malware|features) vs P(features|malware)
+Training models to outsmart attackers while debugging why they occasionally outsmart me.
+∇Loss → 0, ∇Security → ∞ (work in progress)
+"In ML we trust, but we verify the gradients."
 
 ## What I work on:
 
