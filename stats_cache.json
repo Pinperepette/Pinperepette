@@ -1,0 +1,18 @@
+{
+ "user": {
+  "login": "Pinperepette",
+  "company": "Pirate Crew",
+  "location": "Los Angeles California",
+  "blog": "http://pinperepette.github.io/",
+  "email": null,
+  "followers": 679,
+  "following": 79
+ },
+ "langs": {"Python": 41, "HTML": 14, "Shell": 12, "Swift": 6, "JavaScript": 6,
+           "Ruby": 3, "Rust": 2, "CSS": 2, "Perl": 1, "C": 1},
+ "stars": 1207,
+ "owned": 97,
+ "forks": 168,
+ "created": "2012-03-12",
+ "commits": null
+}

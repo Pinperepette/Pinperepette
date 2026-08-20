@@ -1,28 +1,6 @@
-# Hello, I'm @Pinperepette! 👋
-
-🏴‍☠️ { 'name': 'Andrea Amani' }, #Security #engineer , P(Bug | Fix) ≠ P(Fix | Bug).  Debugging → ∞ (converge? maybe). Classe ’76, Σ(errors²) ≠ 0 ;
-
-Security Engineer ∩ ML Enthusiast |
-Where cybersecurity meets artificial intelligence:
-- if(threat_detected) { model.predict(response) }
-- Neural networks for anomaly detection
-- Adversarial ML & AI security research
-- P(malware|features) vs P(features|malware)
-Training models to outsmart attackers while debugging why they occasionally outsmart me.
-∇Loss → 0, ∇Security → ∞ (work in progress)
-"In ML we trust, but we verify the gradients."
-
-## What I work on:
-
-- 🌐 Developing technological projects
-- 🔐 Cybersecurity expert
-- 🐾 Proud owner of Panna, my dog!
-
-## How to reach me:
-
-- Twitter: [@Pinperepette](https://twitter.com/Pinperepette)
-- Website: [pinperepette.github.io](http://pinperepette.github.io/)
-
-Feel free to reach out to me to discuss exciting projects, share knowledge, or even just chat about the world of technology and cybersecurity!
-
-Thanks for visiting my profile! 😊
+<a href="https://github.com/Pinperepette">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pinperepette/Pinperepette/main/dark_mode.svg">
+    <img alt="Pinperepette — GitHub Profile README" src="https://raw.githubusercontent.com/Pinperepette/Pinperepette/main/light_mode.svg">
+  </picture>
+</a>
